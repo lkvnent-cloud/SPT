@@ -1,0 +1,1232 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png",| 🌐VTV6 HD
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| FIFA+ ⚽
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Legendary Matches ⚽
+http://14.hls.gd/ch2036/mono.m3u8?token=adilgold.v2_40lfoiL9ysFKY9a42pHdYLuoWNV8pEPdOYSQe-QKtmx8oegrzg6sQbtkBE4UDqVHwE4VfiowwOFBFQ
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Betano Brazil ⚽
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2125/mono.m3u8?token=adilgold.v2_351jIXnt59kjBzg4VDPTo-AD37xfGhRZ75vHap7bIVRnDQZjkQoA4Isu_jr5l0h4DZLMeretBW79tw
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Tyc Sport Argentina ⚽
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1090711&extension=ts&play_token=jusk0cPyp1
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", Barca TV ⚽
+http://14.hls.gd/ch1618/mono.m3u8?token=adilgold.v2_R-1I8gyjHkv52jOGIx2IwNvpZ7wNGqYceLbNfLjOMCznh1uJpjxrAKHk24YuSHlKph-44LSV6nuMfg
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV ⚽
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV ⚽
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Real TV ⚽
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31847/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sporting TV ⚽
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2530/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| CCTV5+
+https://cdn.qd.je/163189/cctv5p
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| CCTV16+
+https://cdn.qd.je/163189/cctv16
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",| SKYS F1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",|  Max Sport 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",| Max Sport 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png",|  Max Sport 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| LA LIGA ESP
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31823/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Arena Premium 1 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| STRINGSPORT TV
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SKY AU
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports FHD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30199/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports 1 HD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports 2 HD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DIGI Sport 2 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2522/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DIGI Sport 1 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2523/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DIGI Sport 3 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2524/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 1 PT
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31954/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 2 HD PT
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31955/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 3 HD PT
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31956/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 4 HD PT
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31957/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 5 HD PT
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31958/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19156/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 1 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19201/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 2 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19061/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 2 HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19155/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 2 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19202/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 3 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19203/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN 6 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPNews US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19154/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN Deportes HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30063/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPNU HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30067/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 1 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31051/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 1 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6781/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2500/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 2 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6818/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 3
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6124/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 3 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6821/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 4
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6125/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 4 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 4 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6823/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 5
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6126/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 5 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31052/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 6
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6127/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 6 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31053/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 7
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6128/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 7 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31054/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN MAX 1 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6824/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN MAX 1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2501/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN HABER
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19064/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| beIN Sports En Español HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30015/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN SPORTS XTRA ESP 4K 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 1 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12249/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 2 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12250/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 3 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12251/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 4 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12252/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| 5Sport FHD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2341/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| 5Sport Live FHD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2362/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| 5Sport Stars HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12232/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| 5Sport Gold HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12254/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! TV
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2126/mono.m3u8?token=adilgold.v2_9cDZdM8KVkN5MUoTcxxYHz_tWHgaNRnmklc4xsmHMnUFQvZLxKkPCIFQK4-yb2CrRvNjJI_i0hC2iQ
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! Seria ⚽
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2123/mono.m3u8?token=adilgold.v2_tR-c19sn8gkeUTzUHfimg0YaJKo57xDNF0uj9LI7ZQepg3L909jCRVcfYJLY3G8wtyXbelWyVsMP-w
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! La liga ⚽
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2124/mono.m3u8?token=adilgold.v2_pmwxn5ujKV8tvuNzJZmEju3VFOByM6C31zHSA4N4XwdJDHGPvYT638v9qVozxu8tDVBLtu2k9BwvBw
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! Betano Brazil ⚽
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2125/mono.m3u8?token=adilgold.v2_351jIXnt59kjBzg4VDPTo-AD37xfGhRZ75vHap7bIVRnDQZjkQoA4Isu_jr5l0h4DZLMeretBW79tw
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! Premier ⚽
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2005/mono.m3u8?token=adilgold.v2_uH3IdYuSiFn71wO5Xp3sFroOd1BkPoVfGyI0b9-Kam-wp3e_8HDVKwm6kX3voLh8ZzI26IvtojCBSQ
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Match! Sport
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch3304/mono.m3u8?token=adilgold.v2_al5UzOIRiRWeyMUAnvLliKk2WYlX3B6BB9jLVup5NVX6mvRzVUJJ2m8C2z3hCj0_f0WPtQVUSnbotg
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Futsal TV
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch708/mono.m3u8?token=adilgold.v2_Zig59hvvCo4VfI-KOA7YIDa4wh4Nq2t9NE12IwlllZqyo2nu3xq-gH9PIgniABJ9vWSmEc1wzne6
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport TV
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch447/mono.m3u8?token=adilgold.v2_2lQhL43YUYBAJOmr721BwCCYfCuElTuNY--Nu1TTqJ5ilOnGKqkxEsHPdX1VvJS8bq4rtjcoubbe
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Ice Hockey TV
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch663/mono.m3u8?token=adilgold.v2_chphXLiddGsUugoJUamvxQC-ui0qoJkiHTMCRvmf0sOZ-DrJpYzSDsWPsA4-Gh3avvf0N5GT_KdC
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png", VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ANTV 
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QPVN 
+https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CTV - Báo và PTTH Cà Mau
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ATV1 - Báo và PTTH An Giang 
+https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ATV2 - Báo và PTTH An Giang
+https://freem3u.xyz/api/live/play.m3u8?vid=35
+#EXTINF:-1 tvg-id="angiang3" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", ATV3 - Báo và PTTH An Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 1 - Báo và PTTH Cần Thơ
+https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 2 - Báo và PTTH Cần Thơ
+https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 3 - Báo và PTTH Cần Thơ
+https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp", THVL1 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL2.webp", THVL2 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL3.webp", THVL3 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL4.webp", THVL4 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp", THVL5 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", THĐT1 - Báo và PTTH Đồng Tháp
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", THĐT2 - Báo và PTTH Đồng Tháp
+https://freem3u.xyz/api/live/play.m3u8?vid=90
+#EXTINF:-1 tvg-id="tayninh1" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg", Tây Ninh TV - Báo và PTTH Tây Ninh
+https://freem3u.xyz/api/live/play.m3u8?vid=72
+#EXTINF:-1 tvg-id="htv1" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="htv2hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 tvg-id="htv3" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 tvg-id="htv4" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV4.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV4 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="htv5" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg", HTV5 - B Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1 tvg-id="htv7hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 - Báo và PTTH Thành Phố Hồ Chí Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+#EXTINF:-1 tvg-id="htv9hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 - Báo và PTTH Thành Phố Hồ Chí Minh
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/htvcthuanviet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo=https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống HD
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://img-ali1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim HD
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1 tvg-id="htvcplushd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://vietanhtv.id.vn/logo/htvcplus.png", HTVC+
+https://freem3u.xyz/api/live/play.m3u8?vid=132
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐN1 - Báo và PTTH Đồng Nai
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐN2 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐN3 - Báo và PTTH Đồng Nai
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LTV1 - Báo và PTTH LÂM ĐỒNG
+https://freem3u.xyz/api/live/play.m3u8?vid=69
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LTV2 - Báo và PTTH LÂM ĐỒNG
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", KTV - Báo và PTTH Khánh Hòa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1_KhanhHoa.png", KTV1 - Báo và PTTH Khánh Hòa
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DRT - Báo và PTTH ĐAK LAK 
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", GTV - Báo và PTTH GIA LAI 
+https://vmttv.dpdns.org/tv360/?id=gia-lai
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QNGTV1 - Báo và PTTH QUẢNG NGÃI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=81
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DNRTV1 - Báo và PTTH ĐÀ NẴNG
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DNRTV2 - Báo và PTTH ĐÀ NẴNG
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HUẾ TV - Báo và PTTH Huế 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://huetv.com.vn/huetv-online
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QTTV - Báo và PTTH QUÃNG TRỊ
+https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", BHTTV - Báo và PTTH Hà Tĩnh
+https://freem3u.xyz/api/live/play.m3u8?vid=58
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", NTV - Báo và PTTH Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", TTV - Báo và PTTH Thanh Hóa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", NBTV - Báo và PTTH Ninh Bình 
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", THP - Báo và PTTH Hải Phòng 
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", THP3 - Báo và PTTH Hải Phòng
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HYTV - Báo và PTTH Hưng Yên
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", BTV - Báo và PTTH Bắc Ninh
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QTV1 - Báo và PTTH Thành Phố Quảng Ninh
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QTV3 - Báo và PTTH Thành Phố Quảng Ninh 
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HN1 - Báo và PTTH Thành Phố Hà Nội
+https://freem3u.xyz/api/live/play.m3u8?vid=33 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HN2 - Báo và PTTH Thành Phố Hà Nội
+https://freem3u.xyz/api/live/play.m3u8?vid=34
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", PTV - Báo và PTTH Phú Thọ 
+https://vmttv.dpdns.org/tv360/?id=phu-tho
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", TN - Báo và PTTH Thái Nguyên 
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LSTV - Báo và PTTH Lạng Sơn
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CRTV - Báo và PTTH CAO BẰNG 
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", TTV - Báo và PTTH TUYÊN QUANG
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8#t=0.001
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", THLC- Báo và PTTH LÀO CAI
+https://freem3u.xyz/api/live/play.m3u8?vid=71
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", STV - Báo và PTTH SƠN LA 
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐTV - Báo và PTTH ĐIỆN BIÊN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=52
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LTV - Báo và PTTH LAI CHÂU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=68
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HiTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hitv
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", YouTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=31
+#EXTINF:-1 tvg-id="sctv1hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
+https://vmttv.dpdns.org/VTVGo/?sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 tvg-id="sctv3hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
+https://vmttv.dpdns.org/VTVGo/?sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
+https://vmttv.dpdns.org/VTVGo/?sctv4
+#EXTINF:-1 group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg", SCTV5
+https://vmttv.dpdns.org/VTVGo/?sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp", SCTV7
+https://vmttv.dpdns.org/VTVGo/?sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
+https://vmttv.dpdns.org/VTVGo/?sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png", SCTV9
+https://vmttv.dpdns.org/VTVGo/?sctv9
+#EXTINF:-1 group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
+https://vmttv.dpdns.org/VTVGo/?sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
+https://vmttv.dpdns.org/VTVGo/?sctv11
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png", SCTV12
+https://vmttv.dpdns.org/VTVGo/?sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13
+https://vmttv.dpdns.org/VTVGo/?sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14
+https://vmttv.dpdns.org/VTVGo/?sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+#EXTINF:-1 tvg-id="sctv16hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16
+https://vmttv.dpdns.org/VTVGo/?sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
+#EXTINF:-1 tvg-id="sctv18hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18
+https://vmttv.dpdns.org/VTVGo/?sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png", SCTV19
+https://vmttv.dpdns.org/VTVGo/?sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png", SCTV20
+https://vmttv.dpdns.org/VTVGo/?sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 - Việt Nam Ký Ức
+https://vmttv.dpdns.org/VTVGo/?sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
+https://vmttv.dpdns.org/VTVGo/?sctvphim
+#EXTINF:-1 group-title="🔴SCVcab", ON VIỆT GIẢI TRÍ
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 group-title="🔴SCVcab", ON PHIM VIỆT
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 group-title="🔴SCVcab", ON MOVIES
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="🔴SCVcab", ON E CHANNEL
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 group-title="🔴SCVcab", ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 group-title="🔴SCVcab", ON BIBI
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 group-title="🔴SCVcab", ON INFO TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 group-title="🔴SCVcab", ON CINE
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 group-title="🔴SCVcab", ON STYLE TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 group-title="🔴SCVcab", ON MUSIC
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 group-title="🔴SCVcab", ON TRENDING TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 group-title="🔴SCVcab", ON VIE DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 group-title="🔴SCVcab", ON VFAMILY
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 group-title="🔴SCVcab", ON KIDS
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 group-title="🔴SCVcab", ON LIFE 
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=4140a7a30332b483d8b70004d54f83c1&wsABSTime=1793310350
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=973af7c55bb5f57c4aa44afb3266eb83&wsABSTime=1793310400
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=261413573cd095d9b59223fa7d69735a&wsABSTime=1793309623
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=5c5c088088b0bc1127fa671478fc778c&wsABSTime=1793309594
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel53.flv?wsSecret=d1bfc0f7a0569dd85d941ece5d29ef37&wsABSTime=1793309337
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel55.flv?wsSecret=66b47bdf70a1f6908e4036cd016d210c&wsABSTime=1793309464
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel56.flv?wsSecret=1d8a76834183b60b14a2f8b9110e3ad2&wsABSTime=1793309437
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel57.flv?wsSecret=d3ceda17ae8e78c8735e0f6269f7d9bb&wsABSTime=1793293573
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel58.flv?wsSecret=87951e46cbd2a0ffb7e663178705c069&wsABSTime=1793294296
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel59.flv?wsSecret=ad32fdba2530a3243674e35b402aa8c8&wsABSTime=1793294233
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=ea4ec697f35671d66e0810d4896cf0c4&wsABSTime=1793294386
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=31b8e74ddb8056393562a7c15cd154dd&wsABSTime=1793293796
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=4d9d618f65d7ca2744a41b5768520a63&wsABSTime=1793293846
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=fe43564b1093036316e2a070505a8ca1&wsABSTime=1793293822
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95a5208eae433b06b4e5ba4f410b923b&wsABSTime=1793293867
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1791801921-0-0-1d9a834b523e2e3a419693969d6365ce
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV HENDRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791785069-0-0-32b33ba5f151999251c09709781321f3
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2420b481b91ed9ed62ec0ec32d55a327&txTime=6accbed7
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791790145-0-0-9d5442a8cd9729de0e4a1af2431a5945
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV HUNTER
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a08320a8674e0&txTime=6acce4be
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791974249-0-0-9e49718de9801ae3e0bbb9a4cb630e6a
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV COZY
+https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV POCARI
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ROCKSTAR
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV 247
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ALAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel25.flv
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV TOMMY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel29.flv
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KOBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel27.flv
+#EXTINF:-1 group-title="🏀 BASKETBALL", | NBA TV
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL",  | Sky Sport Basket
+http://lordstreams.live:80/9857855271/8369553594/661335
+#EXTINF:-1 group-title="🏀 BASKETBALL",  | CtapT Basket
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16034/index.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL",  | SK Basket
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
+#EXTINF:-1 group-title="🏀 BASKETBALL",  | S Sport 1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6825/index.m3u8
+#EXTINF:-1 group-title="🏀 BASKETBALL",  | S SPORT 2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KAKA
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://play.saigon8386.live/live_5afc467f34a4a65b/live_5afc467f34a4a65b@saigon8386.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KKK
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LAVIE
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV RICKY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV TEPPY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV TYSON  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel33.flv
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Superliga Feminina SERIE A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=ec0047edda1fe2b0ce7d90da890ad5eb&wsABSTime=1793098407
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Superliga MEN SERIE A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=795aec0c78bf2504c827e5236fe0b33e&wsABSTime=1793098547
+#EXTINF:-1 group-title="🏐 VOLLEYBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/250px-Polsat_Sport_1_2024.svg.png", Polsat Sport 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729162&extension=ts&play_token=9JXfYd9pyq
+#EXTINF:-1 group-title="🏐 VOLLEYBALL" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/qx/qxn4b9d2175hjjvvy4ehpa92nztaynba.png", Polsat Sport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729164&extension=ts&play_token=vFbihF9Rmr
+#EXTINF:-1 group-title="🏐 VOLLEYBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/250px-Polsat_Sport_3_2024.svg.png", Polsat Sport 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729168&extension=ts&play_token=ThvjYQPppG
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport 1 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7296/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport 2 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7308/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport 3 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7303/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport Premium 1 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7304/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport Premium 2 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7305/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport Extra 1 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7306/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport Extra 4 HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7307/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |TRT SPOR HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19068/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |TRT SPOR YILDIZ
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2145/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Viju+ Sport
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/160/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | TA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | BEIN 
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | MAXSPORT
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
+#EXTINF:-1 group-title="🥎 TENNIS", | Sky Sport Tennis
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
+#EXTINF:-1 group-title="🥎 TENNIS", | Sky Sport
+http://lordstreams.live:80/9857855271/8369553594/661346
+#EXTINF:-1 group-title="🥎 TENNIS", | Super Tennis
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19111/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | Cosmote
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | EURO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19116/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | EURO1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12047/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | EURO2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12048/index.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | Arena Tenis HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/162185
+#EXTINF:-1 group-title="🥎 TENNIS", | Tennis TV Classic
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="🥎 TENNIS", | TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="🥎 TENNIS", | PICKLE TV 
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", Polsat Sport Fight HD PL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7311/index.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", ARENA Boxing
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31598/index.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", SK Fight
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/125013
+#EXTINF:-1 group-title="🔴 COMBAT", WWE
+http://kstv.us:8080/c2Q2HDqQfM/111770/47642
+#EXTINF:-1 group-title="🔴 COMBAT", UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="🔴 COMBAT", MMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 group-title="🔴 COMBAT", WWA
+http://de.seetv.cc/play/2638/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", EXTREME SPORTS
+http://de.seetv.cc/play/5469/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", BOXING
+http://de.seetv.cc/play/2641/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", ESPN BOXING
+http://de.seetv.cc/play/5467/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", DAZN TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", POLSAT 
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7311/index.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", HARD KNOCKS FIGHTING
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", ONE Championship
+https://live.eac-news.com/Khmer/streams/ONEChampionship.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", COMBAT
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="🔴 COMBAT", UFA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", GLORY
+https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
+#EXTINF:-1 group-title="🔴 COMBAT", TNA Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
+#EXTINF:-1 group-title="🔴 COMBAT", MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", SPORT KLUB FIGHT
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981104&extension=ts
+#EXTINF:-1 group-title="🔴 COMBAT", BEIN SPORT SP
+http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
+#EXTINF:-1 group-title="🔴 COMBAT", Fight Network
+http://kstv.us:8080/c2Q2HDqQfM/111770/15901
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", AFREECA TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", Billiards+ TV
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", POOL 8-Ball World Championship 1
+https://cdn.sports-cas889abxfileposo.site/live/live1861/index.m3u8|Referer=https://choangtv7.com/
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=6c1a5e0bba09a60515cd6bfeae3ed71e&wsABSTime=1793139899
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=d21f17caae32c0197c914bf04d16b6a3&wsABSTime=1793140391
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=cf8a8450e411cf3df3365e7885c319d3&wsABSTime=1793140077
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=f70c1104ebda0a4ae20e8362613d9869&wsABSTime=1793230972
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel88.flv?wsSecret=41c24bee240aa0842482291ed4d87fd5&wsABSTime=1793231143
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel89.flv?wsSecret=b1756b56e43b540726f13f7803f685cf&wsABSTime=1793231023
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 1
+https://cdn.livega.tv/live/2d1ec3fa09775764196971c8840bc6ab/index.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 2
+https://cdn.livega.tv/live/d328c5b9be55a04b83fdfdddd66e2d44/index.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 3
+https://cdn.livega.tv/live/9a855e12d0ac40d55ad48b225ef3dd94/index.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 4
+https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 5
+https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 6
+https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A BÉO
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loabeo_s111a37cbe.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A CHIM
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loachim_s13236d6ee.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LỨNG
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loaphe_s117488c70.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LONG
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loalong_s1c94c92b1.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A MÌN
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loamin_s1870c31ff.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ NGỌC NĂNG
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/lothingocnang_s100fcb2bd.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PÁO
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loapao_s19709a48f.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHÁO
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loaphao_s187d33429.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A SẤY
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loasay_s1ca2b815c.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TAO
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loatao_s194684dd0.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÀY
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loatay_s1593e96cb.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÔN
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", RICKY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", TEPPY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", TiT
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", QUANG HUY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", MƠ
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", CỦ CẢI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/cucai/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", BÚT CHÌ
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", KAI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", CÀ RỐT
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", LONG RUỒI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/longruoi/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", NẾP CẨM
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/nepcam/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", A NGAO
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", CAMRY
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Ô Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/432017.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Bệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/289650.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Kiêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/741294.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Ngố
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301238.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Nhí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301263.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Quỷ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tồ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/796315.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tốc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/307240.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/306290.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SÚP LƠ
+https://playback.livetl004.com/live/6a9a5525864ea536c2577392.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CRIS
+https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV GIÀNG A DÂN
+https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SAITAMA
+https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SIÊU QUẬY
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CỐ TƯ NGHIÊM
+https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV KAYTI
+https://playback.livetl004.com/live/69b8e6f43bcf2231c35d5144.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CÁ MẬP
+https://playback.livetl006.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV LỮ BỐ
+https://playback.livetl006.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV THÍCH ĐỦ THỨ
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV KHANG HI
+https://playback.livetl006.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV RIO
+https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV MÁN NÚI
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV A LONG
+https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV MEOMEO
+https://playback.livetl004.com/live/69be75e0a0a45974afb67776.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV ĐOÀN DỰ
+https://playback.livetl006.com/live/6a5df755b89dded67b39b8bc.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV NGƯỜI KIẾN
+https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV Titan
+https://playback.livetl006.com/live/69d37c3a4da3e15776b6db56.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 ROY 1  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel1.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 FABIO 2  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel2.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 XOILAC 3  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel3.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 TOM 4  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel4.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 NICK 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel5.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 MAX 6  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel6.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 JEAN 7  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel7.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 BEE 8  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel8.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 TONI 9  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel9.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 POLO 10  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel10.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 ASTRA 11  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel11.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 JOHAN 12  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel12.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 XMEN 13  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel13.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 HIRO 14  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel14.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 BRADY 15 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel15.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 RIO 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel16.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 NEMO 17  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel17.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 KEN 18  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel18.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 FILIP 19  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel19.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 SILVA 20  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel20.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 RAVEN 21  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel21.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 ZANE 22  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel22.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 LOGAN 23  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel23.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 FELIX 24  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel24.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🏀ALAN 25  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel25.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 XOILAC 26 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel26.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🏀KOBE 27  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel27.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 OLER 28  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel28.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🏀TOMMY 29  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel29.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 MARTY 30  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel30.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🥎LUCAS 31  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel31.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🥎VIC 32  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel32.flv
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🏐TYSON 33  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel33.flv
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", COZY
+https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", FANTA
+https://live05.yefpwmc.app/live/71426314_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", AQUA
+https://live05.yefpwmc.app/live/18812304_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", LAVIE
+https://live05.yefpwmc.app/live/90725470_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", MONSTER 
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", MUONTAIN DEW 
+https://live05.yefpwmc.app/live/87547578_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", PEPSI
+https://live05.yefpwmc.app/live/43612277_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", REDBULL
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", REVIVE
+https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", ROCKSTAR
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", POCARI 
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", SAMURAI 
+https://live05.yefpwmc.app/live/07808742_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", SODA 
+https://live05.yefpwmc.app/live/02456966_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", SPRITE 
+https://live05.yefpwmc.app/live/75748097_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", STING 
+https://live05.yefpwmc.app/live/14707124_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", TEPPY++ 
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", WARRIOR 
+https://live05.yefpwmc.app/live/97885009_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", 7 UP 
+https://live05.yefpwmc.app/live/78905744_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", 247
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", BÍ ĐAO
+https://live05.yefpwmc.app/live/99121525_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", C2 
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", CHANH MUỐI
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", DR THANH 
+https://live05.yefpwmc.app/live/79665343_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", GIÀ LÀNG
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", HỔ VẰN
+https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", KHÔNG ĐỘ
+https://live05.yefpwmc.app/live/41943555_tsc.m3u8
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", Ô LONG 
+https://live05.yefpwmc.app/live/97312754_tsc.m3u8 
+#EXTINF:-1 group-title="⚽ 🏀 COLA TV", RỒNG ĐỎ 
+https://live05.yefpwmc.app/live/88508431_tsc.m3u8 
+#EXTINF:-1 group-title="📦 MOVIES", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", CCTV6+
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", CCTV7+
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", KIX TV
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", KOREA MOVIES
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", RAKUTEN TV
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", FX MOVIES
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", MOVIE BOX
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Cinema
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5051/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", CINEMAX
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6152/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7014/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7005/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO3
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6987/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19046/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO 2HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19045/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO Mundi
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19047/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO Plus
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19048/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO Pop
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19049/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HBO Signature
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19050/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", AXN White
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6950/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", AXN Black
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6952/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", AXN HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7008/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Pro Cinema
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6951/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Magic Action HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18066/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", VF Netflix
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19427/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", VF HBO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19428/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", VF MARVEL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16051/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Z!Crime
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14136/index.m3u8
