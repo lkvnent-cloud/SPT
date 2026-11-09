@@ -465,10 +465,11 @@ https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=5c5c088088b0bc112
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live1.quickscoreboardz.com/live/channel53.flv?wsSecret=d1bfc0f7a0569dd85d941ece5d29ef37&wsABSTime=1793309337
-#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=7343b6fa4b7380c2f969429b1ccb0527&wsABSTime=1794248029
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -532,13 +533,13 @@ https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791974249-0-0-9e49718de9801ae3e0bbb9a4cb630e6a
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV COZY
-https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+https://live05.wecile.app/live/87379114.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV POCARI
-https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ROCKSTAR
-https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+https://live05.wecile.app/live/82054853.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV 247
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+https://live05.wecile.app/live/90865415.m3u8 
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ALAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -570,14 +571,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 https://play.saigon8386.live/live_5afc467f34a4a65b/live_5afc467f34a4a65b@saigon8386.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KKK
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LAVIE
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -765,7 +758,7 @@ https://tradatv-s1.b-cdn.net/live/loaphe_s117488c70.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LONG
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loalong_s1c94c92b1.m3u8
+https://tradatv-s2.b-cdn.net/live/loalong_s29809fd2b.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A MÌN
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1117,61 +1110,61 @@ https://live2.jorvakstreamcache.com/live/channel32.flv
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel33.flv
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", COZY
-https://live05.yefpwmc.app/live/87379114_tsc.m3u8
+https://live05.wecile.app/live/87379114.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", FANTA
-https://live05.yefpwmc.app/live/71426314_tsc.m3u8
+https://live05.wecile.app/live/71426314.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", AQUA
-https://live05.yefpwmc.app/live/18812304_tsc.m3u8
+https://live05.wecile.app/live/18812304.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", LAVIE
-https://live05.yefpwmc.app/live/90725470_tsc.m3u8
+https://live05.wecile.app/live/90725470.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", MONSTER 
-https://live05.yefpwmc.app/live/75915087_tsc.m3u8 
+https://live05.wecile.app/live/75915087.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", MUONTAIN DEW 
-https://live05.yefpwmc.app/live/87547578_tsc.m3u8 
+https://live05.wecile.app/live/87547578.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", PEPSI
-https://live05.yefpwmc.app/live/43612277_tsc.m3u8
+https://live05.wecile.app/live/43612277.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", REDBULL
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+https://live05.wecile.app/live/14830711.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", REVIVE
-https://live05.yefpwmc.app/live/33982309_tsc.m3u8
+https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", ROCKSTAR
-https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+https://live05.wecile.app/live/82054853.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", POCARI 
-https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", SAMURAI 
-https://live05.yefpwmc.app/live/07808742_tsc.m3u8
+https://live05.wecile.app/live/07808742.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", SODA 
-https://live05.yefpwmc.app/live/02456966_tsc.m3u8
+https://live05.wecile.app/live/02456966.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", SPRITE 
-https://live05.yefpwmc.app/live/75748097_tsc.m3u8
+https://live05.wecile.app/live/75748097.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", STING 
-https://live05.yefpwmc.app/live/14707124_tsc.m3u8 
+https://live05.wecile.app/live/14707124.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", TEPPY++ 
-https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+https://live05.wecile.app/live/33860426.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", WARRIOR 
-https://live05.yefpwmc.app/live/97885009_tsc.m3u8 
+https://live05.wecile.app/live/97885009.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", 7 UP 
-https://live05.yefpwmc.app/live/78905744_tsc.m3u8 
+https://live05.wecile.app/live/78905744.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", 247
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+https://live05.wecile.app/live/90865415.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", BÍ ĐAO
-https://live05.yefpwmc.app/live/99121525_tsc.m3u8
+https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", C2 
-https://live05.yefpwmc.app/live/08552895_tsc.m3u8 
+https://live05.wecile.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", CHANH MUỐI
-https://live05.yefpwmc.app/live/08552895_tsc.m3u8 
+https://live05.wecile.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", DR THANH 
-https://live05.yefpwmc.app/live/79665343_tsc.m3u8 
+https://live05.wecile.app/live/79665343.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", GIÀ LÀNG
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+https://live05.wecile.app/live/14830711.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", HỔ VẰN
-https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+https://live05.wecile.app/live/07428422.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", KHÔNG ĐỘ
-https://live05.yefpwmc.app/live/41943555_tsc.m3u8
+https://live05.wecile.app/live/41943555.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", Ô LONG 
-https://live05.yefpwmc.app/live/97312754_tsc.m3u8 
+https://live05.wecile.app/live/97312754.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", RỒNG ĐỎ 
-https://live05.yefpwmc.app/live/88508431_tsc.m3u8 
+https://live05.wecile.app/live/88508431.m3u8 
 #EXTINF:-1 group-title="📦 MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", CCTV6+
