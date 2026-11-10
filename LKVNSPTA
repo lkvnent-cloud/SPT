@@ -24,28 +24,34 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2530/index.m3u8
 https://cdn.qd.je/163189/cctv5p
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| CCTV16+
 https://cdn.qd.je/163189/cctv16
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",| SKYS F1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png",|  Max Sport 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/107168
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png",| Max Sport 2 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/108325
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png",|  Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| LA LIGA ESP
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31823/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Arena Premium 1 FHD HR
-http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| STRINGSPORT TV
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SKY AU
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports FHD AM
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30199/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports 1 HD AM
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Fast Sports 2 HD AM
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 1 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17256
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 2 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17254
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 3 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17917
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 4 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17249
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 5 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17250
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 6 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17251
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 7 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/132011
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 8 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/132031
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 9 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/132032
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| SK 10 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/132033
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DIGI Sport 2 HD RO
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2522/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DIGI Sport 1 HD RO
@@ -567,10 +573,6 @@ http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6825/index.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL",  | S SPORT 2
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KAKA
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://play.saigon8386.live/live_5afc467f34a4a65b/live_5afc467f34a4a65b@saigon8386.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -689,7 +691,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
 #EXTINF:-1 group-title="🔴 COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="🔴 COMBAT", SPORT KLUB FIGHT
+#EXTINF:-1 group-title="🔴 COMBAT", SK FIGHT
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981104&extension=ts
 #EXTINF:-1 group-title="🔴 COMBAT", BEIN SPORT SP
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
@@ -762,7 +764,7 @@ https://tradatv-s2.b-cdn.net/live/loalong_s29809fd2b.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A MÌN
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loamin_s1870c31ff.m3u8
+https://tradatv-s2.b-cdn.net/live/loamin_s252f8f4c5.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ NGỌC NĂNG
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -770,7 +772,7 @@ https://tradatv-s1.b-cdn.net/live/lothingocnang_s100fcb2bd.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PÁO
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loapao_s19709a48f.m3u8
+https://tradatv-s2.b-cdn.net/live/loapao_s2e1963d01.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHÁO
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
