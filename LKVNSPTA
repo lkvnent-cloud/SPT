@@ -611,6 +611,8 @@ https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791790145-0-0-9d5
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a08320a8674e0&txTime=6acce4be
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791974249-0-0-9e49718de9801ae3e0bbb9a4cb630e6a
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ZERO
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794394713-0-0-0b341d7fff1332d40542440fd0c688a4
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV COZY
 https://live05.wecile.app/live/87379114.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV POCARI
@@ -822,10 +824,6 @@ https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
 https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 6
 https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A BÉO
-#EXTVLCOPT:http-referrer=https://tradatv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loabeo_s111a37cbe.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A CHIM
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -846,26 +844,14 @@ https://tradatv-s2.b-cdn.net/live/loamin_s252f8f4c5.m3u8
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s2.b-cdn.net/live/loapao_s2e1963d01.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHÁO
-#EXTVLCOPT:http-referrer=https://tradatv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loaphao_s187d33429.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A SẤY
-#EXTVLCOPT:http-referrer=https://tradatv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loasay_s1ca2b815c.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TAO
-#EXTVLCOPT:http-referrer=https://tradatv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loatao_s194684dd0.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÀY
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s2.b-cdn.net/live/loatay_s25ccbf9a5.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÔN
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHÁO
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
+https://tradatv-s2.b-cdn.net/live/loaphao_s187d33429.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -922,6 +908,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Lửa
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", Chuối Nhỏ
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1276,128 +1266,64 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=760ea9457d4c87536d37
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=760ea9457d4c87536d370b8d529749df&txTime=6af42cb7
 #EXTINF:-1 group-title="⚽ SOCOLIVE", BLV HẢI THANH
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1794369449-0-0-3cbf402199e1ee190e7da015f05b46e1
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f1516f9d7b1dc247c47b9603d2db8f69&txTime=6aa96d6f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789471270-0-0-07523fb3a2a8e78fe739352ee35ea807
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e85c27caee3a995a56e7b01ca181aa52&txTime=6aa97079
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CỦ CẢI
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1794367092-0-0-7d179c5c885ba1c60a4a6b387cfed919
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791977601-0-0-7dddcb5258b845ad292a65b41511f69f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791792799-0-0-1aa1f73aa5e5e72cac09ff7039f73010
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1bda2285ec5b44be39c386c971eec42b&txTime=6acd00df
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791796734-0-0-db21c357bcc8338d6ae8db200571872b
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789471277-0-0-040004d54bc7a71269059e014c40b916
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CUỘI
-https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=c31fb0c1471e757a9c9ea09efb2fd639&txTime=6af42cb0
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789470535-0-0-8414e4ecedd66aff73f1cba921605375
-EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ba5fe95dce391083523d74dff03885cb&txTime=6aa96ede
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789470869-0-0-3f2f67821833a30148164dd820cd2edf
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789470870-0-0-5d3ca55aa58e47dd0142d462a154c9f9
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1791796441-0-0-2d35d50b1e4a8908a52067ab6773113f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=dc6e299fd97abe7f9e022c18fd66bc01&txTime=6aa96f46
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=71c5b9653c5545161f3c163c441eeabf&txTime=6aa96f48
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4a2ae142f918b77553f157e101ab3251&txTime=6aa96f49
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CÒ
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791792799-0-0-1aa1f73aa5e5e72cac09ff7039f73010
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789470970-0-0-17c7088812e1c745a5f410f510014a65
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PEWPEW
-https://pull.niur.live/live/stream-9912135_lhd.m3u8?txSecret=e6a61abf7a9b7fb6229ddcffcd001cf5&txTime=6accdcec
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789471175-0-0-b69d34c64dd9c2b842a2f5b104e53795
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789471178-0-0-35e334a318bfa608795cb7eaca43c0d9
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=72a0b4d6f503bf0715f54aca7a18a4f2&txTime=6aa97020
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789471276-0-0-b9bc2a876018d57b7b6adfe29a349383
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CR BƯỞI
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1ffe6f29b112fe153b6f849aa00ac4bf&txTime=6accec53
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791796436-0-0-6c8d7abc85557c05f8a0a8af35e3e77e
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=62ab7395309e02a6da88d1b9786a8d8b&txTime=6af4248b
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789471401-0-0-1d5b5ef6a5971aade286046be35fc93d
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789471488-0-0-65cd52af40e41c8fb85331cb238b3264
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV XUÂN SƠN
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bcba068beefe66cc6633f579c0ee9d8a&txTime=6aa97152
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789471492-0-0-b4fb0e726f26246652e3f6a5f2a90097
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=888598f6217e31fc8b75e1269fb0f52f&txTime=6aa97155
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f7edbf0a85847821eb699dfeea7eadcc&txTime=6aa97157
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789471498-0-0-9b6e4b9567d48444e323070b81929f67
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791792801-0-0-8e450e2afe78ae9c74b0c5c628aa890f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a08320a8674e0&txTime=6acce4be
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9bb2cb86d9c8a17ec9bbeb5f203ca768&txTime=6acceb27
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791796442-0-0-d71ef6d9f9a01c1ec50cb981f887b068
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cf8bd1881e5a158f6919838674774fb4&txTime=6accebf3
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=097bbc5b4462d8c58c332f6ed1533045&txTime=6accebf7
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791796737-0-0-299eaa7b93b6d9f9357243e50a032299
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HUCK
-https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791796738-0-0-ee75a6e923f7c07264eef2925eb1064e
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ASHAHI
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791802005-0-0-7e0725500b64fa29720fd0c7ad2a14a0
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A BỆU
-https://pull06.scstream.net/live/stream-9912142_lhd.flv?auth_key=1791974045-0-0-55be50dcec84cc7e7652ce18519acad1
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0df044613331f9fe2a6ae5981e02c91c&txTime=6acfa268
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1791974424-0-0-a5ff8829d0965496d289c349b9cb0745
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791974425-0-0-9bf5b87b8cba8969153cdcd9e74dcbb4
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791977607-0-0-35946907ec990b33917cd871f5e174c6
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791977606-0-0-435ef385569f81e584658f710d9a4a46
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV MESSI
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791977844-0-0-b486c19b0709a573990c1e88add64c5e
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV SAO LA
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791977842-0-0-009e8cdb7aa74ab41295a432b8092d6f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BOSS
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1791978035-0-0-8e50b74126696c86515f5c6ed8b6368e
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ROSSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=af9df684c2750ff7b4d387bad8bd2d70&txTime=6acfb0ce
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1791978112-0-0-e11e39314d7f18037f7f2c8968dd8c46
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ea1dc3671e3495b2ed458c5fea7d9c6c&txTime=6acfb138
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VOI
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791978251-0-0-4648d6ab622772b4be4fa1e0fd5ec025
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6b137b0f6010c55544d03fd53c435b7f&txTime=6acfb186
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe4b0d16a137668585601f603e566f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV T REX
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe4b0d16a137668585601f603e566f
-#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KINH VÂN
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791978434-0-0-9dd958d9f713d7fc8dbfcbb4f9c535ff
+#EXTINF:-1 group-title="⚽ SOCOLIVE", RICKHANTER
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1794389122-0-0-bde8cc243ff8b9d8a885512224e89958
+#EXTINF:-1 group-title="⚽ SOCOLIVE", BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fb385e872193c774a02aca8f5abcaf39&txTime=6af47adb
+#EXTINF:-1 group-title="⚽ SOCOLIVE", LÃO LÂM
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794389134-0-0-8b4f87ef97b58a9f80f7951ab7e4bb28
+#EXTINF:-1 group-title="⚽ SOCOLIVE", A TINH
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=ee4a525033eee50edff1901242bfeedf&txTime=6af47ae0
+#EXTINF:-1 group-title="⚽ SOCOLIVE", PEWPEW
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794389223-0-0-de49159f765db0f95b7e6108ebc5a00d
+#EXTINF:-1 group-title="⚽ SOCOLIVE", CHAN ĐÊ
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1794389227-0-0-8a5220b29a8162dd7a3b3fe3188c1c22
+#EXTINF:-1 group-title="⚽ SOCOLIVE", YONE
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1794389346-0-0-dae291b1c6e6bf17a8bb311a6c55b070
+#EXTINF:-1 group-title="⚽ SOCOLIVE", VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e02ccb1f316c81671bb207e468e1fa4f&txTime=6af47bb5
+#EXTINF:-1 group-title="⚽ SOCOLIVE", CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2e24d088e230a17083973a7dcaa1bd85&txTime=6af47c70
+#EXTINF:-1 group-title="⚽ SOCOLIVE", BÚN ĐẬU
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1794389541-0-0-95a79c92ac95c698f35cb9b7c811c093
+#EXTINF:-1 group-title="⚽ SOCOLIVE", ASHAHI
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794389544-0-0-3d9272315b261e567e5b2f8bdf079557
+#EXTINF:-1 group-title="⚽ SOCOLIVE", TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1794389670-0-0-e05fae3a2ae09c193a1a71bfe09cae1b
+#EXTINF:-1 group-title="⚽ SOCOLIVE", KENCHU
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794389699-0-0-9c6eecfe1742f31ca964f74087447510
+#EXTINF:-1 group-title="⚽ SOCOLIVE", GIÓ
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1794391733-0-0-51d6f97c5812ecddf5904f75702f1289
+#EXTINF:-1 group-title="⚽ SOCOLIVE", CÁO
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1794391737-0-0-d537167ad37d4770c94857436534efcc
+#EXTINF:-1 group-title="⚽ SOCOLIVE", RYO
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=d6303ef8c76c707dcd4349e0ca850b36&txTime=6af4897c
+#EXTINF:-1 group-title="⚽ SOCOLIVE", PEANUT
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1794392881-0-0-1161210be1d4fd9192825cfb5dd086a7
+#EXTINF:-1 group-title="⚽ SOCOLIVE", BOSS
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1794392884-0-0-d7b4ddf0ef90c641de9b9950835f025f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", HUCK
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794392886-0-0-d97ea114d6844326c5299194533fce95
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SAO LA
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=64c9e72a9f553c68951c814000d7486b&txTime=6af48fc1
+#EXTINF:-1 group-title="⚽ SOCOLIVE", MESSI
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1794394484-0-0-8df002c1eab56250df34c1385943b075
+#EXTINF:-1 group-title="⚽ SOCOLIVE", ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794394485-0-0-52f156da68edb2944bd0018b4830a908
+#EXTINF:-1 group-title="⚽ SOCOLIVE", RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a0170e90e1741de1c11d4256b7cf2ebc&txTime=6af48fc8
+#EXTINF:-1 group-title="⚽ SOCOLIVE", CURRY
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1794394489-0-0-a11a66fce79a3b1e03e8fe1c305f6b1a
+#EXTINF:-1 group-title="⚽ SOCOLIVE", A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794394598-0-0-28ee3276f5f121a926cab99120625d5f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", THẠCH TÚ
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1794394607-0-0-67d44d38655c32d533ea7ced0e804028
+#EXTINF:-1 group-title="⚽ SOCOLIVE", XO
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=831a639f33bfd5f3df68efe376ab5797&txTime=6af49042
+#EXTINF:-1 group-title="⚽ SOCOLIVE", A TÚ
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1794394612-0-0-914c6881b75f4d4052837c3871cdad5e
+#EXTINF:-1 group-title="⚽ SOCOLIVE", BẢY
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794394614-0-0-7093da2c5c061142423f48079fa88e50
 #EXTINF:-1 group-title="📦 MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", CCTV6+
