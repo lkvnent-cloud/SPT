@@ -9,7 +9,7 @@ http://14.hls.gd/ch2036/mono.m3u8?token=adilgold.v2_40lfoiL9ysFKY9a42pHdYLuoWNV8
 #EXTVLCOPT:network-caching=1000
 http://14.hls.gd/ch2125/mono.m3u8?token=adilgold.v2_351jIXnt59kjBzg4VDPTo-AD37xfGhRZ75vHap7bIVRnDQZjkQoA4Isu_jr5l0h4DZLMeretBW79tw
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Tyc Sport Argentina ⚽
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1090711&extension=ts&play_token=jusk0cPyp1
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", Barca TV ⚽
 http://14.hls.gd/ch1618/mono.m3u8?token=adilgold.v2_R-1I8gyjHkv52jOGIx2IwNvpZ7wNGqYceLbNfLjOMCznh1uJpjxrAKHk24YuSHlKph-44LSV6nuMfg
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV ⚽
@@ -216,6 +216,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ATV3 HD - Báo và PTTH An Giang
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 1 - Báo và PTTH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 2 - Báo và PTTH Cần Thơ
@@ -301,8 +303,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=49
 https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HUẾ TV - Báo và PTTH Huế 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-referer=https://huetv.com.vn/huetv-online
+#EXTVLCOPT:http-user-referer=https://huetv.com.vn/truyen-hinh
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HUẾ TV HD - Báo và PTTH Huế 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-referer=https://huetv.com.vn/truyen-hinh
+https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QTTV - Báo và PTTH QUÃNG TRỊ
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", BHTTV - Báo và PTTH Hà Tĩnh
@@ -446,66 +452,66 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="🔴SCVcab", ON LIFE 
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="360 Phim Việt" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
+#EXTINF:-1 tvg-id="360 Phim Việt" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
-#EXTINF:-1 tvg-id="360phimaumy" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
+#EXTINF:-1 tvg-id="360phimaumy" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-au-my
-#EXTINF:-1 tvg-id="360hoathinh" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Hoạt hình
+#EXTINF:-1 tvg-id="360hoathinh" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=hoat-hinh
-#EXTINF:-1 tvg-id="360phimhoangu" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
+#EXTINF:-1 tvg-id="360phimhoangu" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
-#EXTINF:-1 tvg-id="360hanhdongchaua" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Hành Động Châu Á
+#EXTINF:-1 tvg-id="360hanhdongchaua" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Hành Động Châu Á
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
-#EXTINF:-1 tvg-id="360kdrama" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 K-Drama
+#EXTINF:-1 tvg-id="360kdrama" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_640_360.png", 360 K-Drama
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-k-drama
-#EXTINF:-1 tvg-id="360haitinhcam" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Hài - Tình Cảm
+#EXTINF:-1 tvg-id="360haitinhcam" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Hài - Tình Cảm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
-#EXTINF:-1 tvg-id="360phimkinhdien" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh Điển
+#EXTINF:-1 tvg-id="360phimkinhdien" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh Điển
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
-#EXTINF:-1 tvg-id="360anime" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 Anime
+#EXTINF:-1 tvg-id="360anime" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 Anime
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-anime
-#EXTINF:-1 tvg-id="360thieunhi" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png", 360 Thiếu Nhi
+#EXTINF:-1 tvg-id="360thieunhi" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_640_360.png", 360 Thiếu Nhi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
-#EXTINF:-1 tvg-id="360phim4k" group-title="360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png", 360 Phim 4K
+#EXTINF:-1 tvg-id="360phim4k" group-title="🔴360 Giải Trí" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_640_360.png", 360 Phim 4K
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
-#EXTINF:-1 tvg-id="360mrbean" group-title="360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png", 360 Mr.bean
+#EXTINF:-1 tvg-id="360mrbean" group-title="🔴360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_640_360.png", 360 Mr.bean
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
-#EXTINF:-1 tvg-id="360doraemon" group-title="360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
+#EXTINF:-1 tvg-id="360doraemon" group-title="🔴360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_640_360.png", 360 Doraemon
 https://vmttv.dpdns.org/tv360/?id=360-doraemon
-#EXTINF:-1 tvg-id="360songkhoe" group-title="360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png", 360 Sống Khỏe
+#EXTINF:-1 tvg-id="360songkhoe" group-title="🔴360 Giải Trí" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_640_360.png", 360 Sống Khỏe
 https://vmttv.dpdns.org/tv360/?id=360-song-khoe
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo=" https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_640_360.png", 360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png", 360 C2 Châu Âu
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png", 360 C2 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png", 360 C3 Châu Âu
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png", 360 C3 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", 360 Thể Thao Châu Á
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", 360 Thể Thao Châu Á
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_640_360.png", 360 Công Thức 1
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_640_360.png", 360 Công Thức 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png", 360 Bundesliga
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_640_360.png", 360 Bundesliga
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-bundesliga
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_640_360.png", 360 Golf
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_640_360.png", 360 Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-golf
-#EXTINF:-1 group-title="360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png", 360 Tennis
+#EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png", 360 Tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-tennis
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL40
@@ -824,10 +830,10 @@ https://tradatv-s1.b-cdn.net/live/loabeo_s111a37cbe.m3u8
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s2.b-cdn.net/live/loachim_s21a562bb4.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LỨNG
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LỬNG
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loaphe_s117488c70.m3u8
+https://tradatv-s2.b-cdn.net/live/loalung_s2c4a3885b.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LONG
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -855,7 +861,7 @@ https://tradatv-s1.b-cdn.net/live/loatao_s194684dd0.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÀY
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loatay_s1593e96cb.m3u8
+https://tradatv-s2.b-cdn.net/live/loatay_s25ccbf9a5.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÔN
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1158,7 +1164,7 @@ https://live2.jorvakstreamcache.com/live/channel28.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel29.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 MARTY 30  
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🎮MARTY 30  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
@@ -1234,6 +1240,128 @@ https://live05.wecile.app/live/41943555.m3u8
 https://live05.wecile.app/live/97312754.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", RỒNG ĐỎ 
 https://live05.wecile.app/live/88508431.m3u8 
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TAP
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f1516f9d7b1dc247c47b9603d2db8f69&txTime=6aa96d6f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ZIDANE
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789471270-0-0-07523fb3a2a8e78fe739352ee35ea807
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e85c27caee3a995a56e7b01ca181aa52&txTime=6aa97079
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CỦ CẢI
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789470545-0-0-b1cb8a065a5b66a58b07fa967761fd1c
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791977601-0-0-7dddcb5258b845ad292a65b41511f69f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791792799-0-0-1aa1f73aa5e5e72cac09ff7039f73010
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV THOMAS
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1bda2285ec5b44be39c386c971eec42b&txTime=6acd00df
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LÃO LÂM
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791796734-0-0-db21c357bcc8338d6ae8db200571872b
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HEHE
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789471277-0-0-040004d54bc7a71269059e014c40b916
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CUỘI
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789470542-0-0-b6ffaf94d46f56b3f66c8554e0f5fdd2
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ZOWIE
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789470535-0-0-8414e4ecedd66aff73f1cba921605375
+EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ba5fe95dce391083523d74dff03885cb&txTime=6aa96ede
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PEANUT
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789470869-0-0-3f2f67821833a30148164dd820cd2edf
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VOI
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789470870-0-0-5d3ca55aa58e47dd0142d462a154c9f9
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÚN ĐẬU
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1791796441-0-0-2d35d50b1e4a8908a52067ab6773113f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PIRLO
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=dc6e299fd97abe7f9e022c18fd66bc01&txTime=6aa96f46
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=71c5b9653c5545161f3c163c441eeabf&txTime=6aa96f48
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV XO
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4a2ae142f918b77553f157e101ab3251&txTime=6aa96f49
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CÒ
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791792799-0-0-1aa1f73aa5e5e72cac09ff7039f73010
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A MÂN
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789470970-0-0-17c7088812e1c745a5f410f510014a65
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV PEWPEW
+https://pull.niur.live/live/stream-9912135_lhd.m3u8?txSecret=e6a61abf7a9b7fb6229ddcffcd001cf5&txTime=6accdcec
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789471175-0-0-b69d34c64dd9c2b842a2f5b104e53795
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KENCHU
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789471178-0-0-35e334a318bfa608795cb7eaca43c0d9
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV GIÓ
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=72a0b4d6f503bf0715f54aca7a18a4f2&txTime=6aa97020
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV NGƯỜI CÁ
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789471276-0-0-b9bc2a876018d57b7b6adfe29a349383
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CR BƯỞI
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1ffe6f29b112fe153b6f849aa00ac4bf&txTime=6accec53
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LUCAS
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791796436-0-0-6c8d7abc85557c05f8a0a8af35e3e77e
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0a812c6f1f880dccb5d32e0eb1afa333&txTime=6aa970f8
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TRÀ ĐÁ
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789471401-0-0-1d5b5ef6a5971aade286046be35fc93d
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A TÚ
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789471488-0-0-65cd52af40e41c8fb85331cb238b3264
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV XUÂN SƠN
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bcba068beefe66cc6633f579c0ee9d8a&txTime=6aa97152
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HẢI THANH
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789471492-0-0-b4fb0e726f26246652e3f6a5f2a90097
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LOGAN
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=888598f6217e31fc8b75e1269fb0f52f&txTime=6aa97155
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CÔNG CHẤT
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f7edbf0a85847821eb699dfeea7eadcc&txTime=6aa97157
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV NEKO
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789471498-0-0-9b6e4b9567d48444e323070b81929f67
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV FIREMAN
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791792801-0-0-8e450e2afe78ae9c74b0c5c628aa890f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HUNTER
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a08320a8674e0&txTime=6acce4be
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9bb2cb86d9c8a17ec9bbeb5f203ca768&txTime=6acceb27
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A WIN
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791796442-0-0-d71ef6d9f9a01c1ec50cb981f887b068
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cf8bd1881e5a158f6919838674774fb4&txTime=6accebf3
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV GIÓ
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=097bbc5b4462d8c58c332f6ed1533045&txTime=6accebf7
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791796737-0-0-299eaa7b93b6d9f9357243e50a032299
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV HUCK
+https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791796738-0-0-ee75a6e923f7c07264eef2925eb1064e
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ASHAHI
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791802005-0-0-7e0725500b64fa29720fd0c7ad2a14a0
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A BỆU
+https://pull06.scstream.net/live/stream-9912142_lhd.flv?auth_key=1791974045-0-0-55be50dcec84cc7e7652ce18519acad1
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0df044613331f9fe2a6ae5981e02c91c&txTime=6acfa268
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TƯƠI
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1791974424-0-0-a5ff8829d0965496d289c349b9cb0745
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV YONE
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791974425-0-0-9bf5b87b8cba8969153cdcd9e74dcbb4
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV CURRY
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791977607-0-0-35946907ec990b33917cd871f5e174c6
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791977606-0-0-435ef385569f81e584658f710d9a4a46
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV MESSI
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791977844-0-0-b486c19b0709a573990c1e88add64c5e
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV SAO LA
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791977842-0-0-009e8cdb7aa74ab41295a432b8092d6f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV BOSS
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1791978035-0-0-8e50b74126696c86515f5c6ed8b6368e
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ROSSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=af9df684c2750ff7b4d387bad8bd2d70&txTime=6acfb0ce
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LOKA
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1791978112-0-0-e11e39314d7f18037f7f2c8968dd8c46
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ea1dc3671e3495b2ed458c5fea7d9c6c&txTime=6acfb138
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV VOI
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791978251-0-0-4648d6ab622772b4be4fa1e0fd5ec025
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6b137b0f6010c55544d03fd53c435b7f&txTime=6acfb186
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe4b0d16a137668585601f603e566f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV T REX
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe4b0d16a137668585601f603e566f
+#EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KINH VÂN
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791978434-0-0-9dd958d9f713d7fc8dbfcbb4f9c535ff
 #EXTINF:-1 group-title="📦 MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", CCTV6+
