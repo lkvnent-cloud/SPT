@@ -216,10 +216,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ATV3 HD - Báo và PTTH An Giang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-referer=https://angiangtv.vn/
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 1 - Báo và PTTH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", CẦN THƠ 2 - Báo và PTTH Cần Thơ
@@ -613,8 +609,6 @@ https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2420b481b91ed9ed62ec
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791790145-0-0-9d5442a8cd9729de0e4a1af2431a5945
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV HUNTER
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ed8e2faa21e825f9c21a08320a8674e0&txTime=6acce4be
-#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791974249-0-0-9e49718de9801ae3e0bbb9a4cb630e6a
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ZERO
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1794394713-0-0-0b341d7fff1332d40542440fd0c688a4
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV COZY
@@ -855,6 +849,7 @@ https://tradatv-s2.b-cdn.net/live/loatay_s25ccbf9a5.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A TÔN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tradatv.live/
+https://tradatv-s2.b-cdn.net/live/loaton_s2619d22b3.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tradatv.live/
@@ -862,6 +857,7 @@ https://tradatv-s2.b-cdn.net/live/loaphao_s257501797.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tradatv.live/
+https://tradatv-s2.b-cdn.net/live/loaton_s2619d22b3.m3u8
 #EXTINF:-1 group-title="⚽🏐66LIVETV", 649469
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://66livetv.net/
