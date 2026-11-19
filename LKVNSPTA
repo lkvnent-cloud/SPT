@@ -857,15 +857,7 @@ https://tradatv-s2.b-cdn.net/live/loaphao_s257501797.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tradatv.live/
-https://tradatv-s2.b-cdn.net/live/loaton_s2619d22b3.m3u8
-#EXTINF:-1 group-title="⚽🏐66LIVETV", 649469
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://66livetv.net/
-https://66livetv.live/api/hls/1649469/index.m3u8
-#EXTINF:-1 group-title="⚽🏐66LIVETV", 1647451
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://66livetv.net/
-https://66livetv.live/api/hls/1647451/index.m3u8
+https://tradatv-s2.b-cdn.net/live/loaka_s23fff0a7e.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
