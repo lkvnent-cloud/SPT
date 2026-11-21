@@ -132,6 +132,8 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19064/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30015/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN SPORTS
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/239672
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 1 HD IL
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12249/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Sport 2 HD IL
@@ -514,6 +516,36 @@ https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 group-title="⚽360 Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png", 360 Tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-tennis
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| SOLO SPORT 1
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250002
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| SOLO SPORT 2
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250006
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| SOLO SPORT 3
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250010
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| SOLO SPORT 4
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250014
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| SOLO SPORT 5
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250018
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 1 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31578/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 2 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31579/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 3 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31581/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 4 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31582/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 5 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31583/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 6 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 7 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31585/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 8 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31586/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport 9 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31587/index.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| Cosmote Sport Highlights HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31588/index.m3u8
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -727,6 +759,10 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="🥎 TENNIS", | PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🔴 COMBAT", UFC HD
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250022
+#EXTINF:-1 group-title="🔴 COMBAT", WWE HD
+http://bouygues.c1e.me:8080/SaadiElhaj/b8:bc:5b:c7:9d:05/250030
 #EXTINF:-1 group-title="🔴 COMBAT", Polsat Sport Fight HD PL
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7311/index.m3u8
 #EXTINF:-1 group-title="🔴 COMBAT", ARENA Boxing
