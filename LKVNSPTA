@@ -894,6 +894,10 @@ https://tradatv-s2.b-cdn.net/live/loaphao_s257501797.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 https://tradatv-s2.b-cdn.net/live/loaka_s23fff0a7e.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A BỆU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+https://tradatv-s2.b-cdn.net/live/loabeu_s23fff0a7e.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1297,7 +1301,7 @@ https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1794367104-0-0-a3f5
 #EXTINF:-1 group-title="⚽ SOCOLIVE", JINWOO
 https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795086103-0-0-861cb2748b02dadd525d96ce5e299208
 #EXTINF:-1 group-title="⚽ SOCOLIVE", KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=62ab7395309e02a6da88d1b9786a8d8b&txTime=6af4248b
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9a30a67b4b87e0066f01e49ae243a5b4&txTime=6b045d18
 #EXTINF:-1 group-title="⚽ SOCOLIVE", KENCHU
 https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1794389699-0-0-9c6eecfe1742f31ca964f74087447510
 #EXTINF:-1 group-title="⚽ SOCOLIVE", LÃO LÂM
@@ -1315,7 +1319,7 @@ https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=a333ba98369e9e79e22
 #EXTINF:-1 group-title="⚽ SOCOLIVE", PEWPEW
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1794389223-0-0-de49159f765db0f95b7e6108ebc5a00d
 #EXTINF:-1 group-title="⚽ SOCOLIVE", RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a0170e90e1741de1c11d4256b7cf2ebc&txTime=6af48fc8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a6b40ba931fade0161bc29113fc07c2d&txTime=6b045d1c
 #EXTINF:-1 group-title="⚽ SOCOLIVE", RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d00001624b448cfb837fa934aa786e0f&txTime=6aff1ea2
 #EXTINF:-1 group-title="⚽ SOCOLIVE", ROSI
@@ -1351,7 +1355,7 @@ https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1794394614-0-0-7093
 #EXTINF:-1 group-title="⚽ SOCOLIVE", BÉO
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fb385e872193c774a02aca8f5abcaf39&txTime=6af47adb
 #EXTINF:-1 group-title="⚽ SOCOLIVE", BLV ĐỐM
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=760ea9457d4c87536d370b8d529749df&txTime=6af42cb7
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1795430243-0-0-1c341f92b4c65890964873dd0290a966
 #EXTINF:-1 group-title="⚽ SOCOLIVE", BÚN ĐẬU
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1794389541-0-0-95a79c92ac95c698f35cb9b7c811c093
 #EXTINF:-1 group-title="⚽ SOCOLIVE", CÁO
