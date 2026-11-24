@@ -735,6 +735,9 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19068/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2145/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Viju+ Sport
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/160/index.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Viju+ Sport HD
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🥎 TENNIS", | TA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="🥎 TENNIS", | BEIN 
@@ -1395,7 +1398,7 @@ http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", CCTV7+
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", KIX TV
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 group-title="📦 MOVIES", KOREA MOVIES
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", RAKUTEN TV
@@ -1446,3 +1449,45 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19428/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16051/index.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", Z!Crime
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14136/index.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Bollywood
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Cinema
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", FilmUADrama
+#EXTVLCOPT:network-caching=1000
+https://dash.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", FilmUA Live
+#EXTVLCOPT:network-caching=1000
+https://dash.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Star Cinema
+#EXTVLCOPT:network-caching=1000
+https://dash.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Star Family
+#EXTVLCOPT:network-caching=1000
+https://dash.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Viju TV1000
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Viju TV1000 Action
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", Viju TV1000 Русское кино
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", viju+ Comedy
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1061/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", viju+ Megahit
+#EXTVLCOPT:network-caching=1000
+http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", viju+ Premiere
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1056/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📦 MOVIES", viju+ Serial
+#EXTVLCOPT:network-caching=1000
+http://stream8.cinerama.uz/1224/tracks-v1a1/mono.m3u8
